@@ -65,3 +65,23 @@ body{
     margin-top: 6%;
     margin-left: 13.5%;
 }
+.a5{
+    position: relative;
+    object-fit:cover;
+    margin: 0 auto;
+    width: 96%;
+    height: 350px;
+}
+.slick{
+    position: relative;
+    margin-top: 5%;
+    object-fit:cover;
+}
+.a6{
+    position: relative;
+    background-color: white;
+    width: 30%;
+    height: 400px;
+    margin-top: 3%;
+    margin-left: 13.5%;
+}
