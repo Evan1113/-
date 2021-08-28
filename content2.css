@@ -1,7 +1,7 @@
 body{
     margin: auto;
     padding: auto;
-    background-color: rgb(87, 198, 226);
+    background-color: rgb(95, 223, 101);
 }
 .a{
     position: relative;
@@ -28,6 +28,39 @@ body{
     font-size: 25px;
     color: white;
 }
+.rep{
+    position: relative;
+    display: flex;
+    width: 73%;
+    height: 450px;
+    margin-left: 14%;
+    margin-top: 15%;
+    background-color: white;
+}
+.pit{
+    position: relative;
+    background-size:cover;
+    width: 50%;
+}
+.wor{
+    position: relative;
+    text-align: center;
+    margin-top: 8%;
+    font-size: 150%;
+}
+.a8{
+    position: relative;
+    width: 8%;
+    height: 20px;
+    margin-top: -3%;
+    margin-left: 65%;
+}
+.a9{
+    position: relative;
+    width: 100%;
+    height: 40px;
+    background-color: red;
+}
 .f{
     position: relative;
     display: flex;
@@ -37,7 +70,7 @@ body{
     background-color: white;
     width: 30%;
     height: 400px;
-    margin-top: 17%;
+    margin-top: 5%;
     margin-left: 13.5%;
 }
 .p1{
@@ -70,7 +103,7 @@ body{
     object-fit:cover;
     margin: 0 auto;
     width: 96%;
-    height: 350px;
+    height: 400px;
 }
 .slick{
     position: relative;
@@ -92,4 +125,13 @@ body{
     height: 400px;
     margin-top: 5%;
     margin-left: 13.5%;
+}
+.a10{
+    position: relative;
+    background-image: url(/p/12.jpeg);
+    width: 100%;
+    height: 200px;
+    margin-top: 2%;
+    background-size:cover;
+    background-position:center;
 }
