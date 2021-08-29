@@ -25,3 +25,50 @@ body{
     position: relative;
     object-fit:cover;
 }
+.a4{
+    position: relative;
+    margin-left: 4%;
+    margin-top: 1%;
+    width: 15%;
+    height: 40px;
+    background-color: rgb(112, 175, 18);
+}
+.a5{
+    position: relative;
+    margin-left: 4%;
+    margin-top: 1%;
+    width: 15%;
+    height: 40px;
+    background-color: rgb(61, 83, 184);
+}
+.a6{
+    position: relative;
+    margin-left: 4%;
+    margin-top: 1%;
+    width: 15%;
+    height: 40px;
+    background-color: rgb(175, 120, 18);
+}
+.a7{
+    position: relative;
+    margin-left: 4%;
+    margin-top: 1%;
+    width: 15%;
+    height: 40px;
+    background-color: rgb(203, 218, 5);
+}
+.p{
+    position: relative;
+    margin-left: 30%;
+    font-size: 25px;
+    color: white;
+}
+.a8{
+    position: relative;
+    object-fit:cover;
+    margin: 0 auto;
+    width: 75%;
+    height: 380px;
+    margin-top: -14%;
+    margin-left: 20%;
+}
