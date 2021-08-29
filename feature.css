@@ -25,3 +25,22 @@
     margin-top: 20px;
     margin-left: 10px;
 }
+.link{
+    position: relative;
+    
+    justify-content: space-around;
+    top: 35%;
+    height: 100%;
+    width: 350px;
+}
+.l1{
+    position: relative;
+    margin-top: -16%;
+    margin-left: 70%;
+    color: black;
+    display: flex;
+}
+.k{
+    font-size: 25px;
+    color: rgb(87, 198, 226);
+}
