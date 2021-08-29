@@ -1,0 +1,100 @@
+*{
+    margin: 0px;
+    padding: 0px; 
+}
+body{
+    background-color: beige;
+    font-family:'Courier New', Courier, monospace;
+}
+@media screen and ( max-width: 1800px){
+#wrapper{
+   width:80%;
+}
+}
+#logo{
+    width: 100%;
+    height: 250px;
+    margin-bottom: 300px;
+}
+#content_in{
+   padding: 30px 50px;
+   text-align: center;
+   background-color: #F4F4ED;
+}
+#content h1{
+    color: #B63D32;
+    margin-bottom: 10px;
+}
+#content_in p{
+    font-size: 15px;
+    margin-bottom: 20px;
+}
+#content_in a{
+    display: block;
+    width: 130px;
+    height: 40px;
+    line-height: 40px;
+    margin: 0 auto;
+    text-decoration: none;
+    background-color: #B63D32;
+    color: #FFFFFF;
+}
+footer{
+    background-color: #71552A;
+    text-align: center;
+}
+footer p{
+    font-size: 10px;
+    color:#FFFFFF;
+    padding:10px 10px;
+}
+nav{
+   background-color: #B63D32;
+   text-align: center;
+}
+
+ul{
+    display: inline-block;
+    margin: 0px;
+}
+@media screen and(max-width: 640px){
+    
+ li a{
+    display: block;
+    padding: 20px;
+    float: left;
+    text-align: center;
+ }
+}
+#picture_in{
+    padding: 30px 50px;
+   text-align: center;
+   background-color: #F4F4ED;
+}
+#picture h1{
+    color: black;
+}
+.card{
+    width: 200px;
+    display:block;
+    padding: 10px;
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 200px;
+}
+.card-img-top{
+    width: 350px;
+}
+.card-title{
+    font-size: 25px;
+    margin-bottom: 20px;
+}
+.btn btn-primary{
+    font-size: 15px;
+    margin-left: 20px;
+    
+}
+.s1{
+    display: flex;
+}
+
