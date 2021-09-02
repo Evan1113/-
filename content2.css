@@ -126,12 +126,24 @@ body{
     margin-top: 5%;
     margin-left: 13.5%;
 }
-.a10{
+footer{
     position: relative;
-    background-image: url(/p/12.jpeg);
+    text-align: center;
+    color: white;
+    background-color: #71552A;
     width: 100%;
-    height: 200px;
+    height: 100px;
     margin-top: 2%;
-    background-size:cover;
-    background-position:center;
+}
+nav{
+    position: relative;
+    background-color: #B63D32;
+    text-align: center;
+    margin-top: -1%;
+ }
+ ul{
+     position: relative;
+    display: inline-block;
+    margin: 0px;
+    margin-right: 2%;
 }
