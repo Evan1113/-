@@ -2,20 +2,31 @@ body{
     margin: auto;
     padding: auto;
 }
-.a{
+.link{
     position: relative;
-    background-image: url(/p/1.jpg);
+    justify-content: space-around;
+    top: 35%;
+    height: 100%;
     width: 100%;
-    height: 250px;
-    background-size:cover;
-    background-position:center;
+}
+.k{
+    font-size: 35px;
 }
 .a1{
+    display: flex;
+
+}
+.a{
     position: relative;
-    background-image: url(/p/2.jpg);
-    width: 17%;
-    height: 100%;
-    background-size:cover;
+    width: 100%;
+    height: 150px;
+    background-color: rgb(226, 220, 220);
+}
+.s1{
+  
+    position: relative;
+    object-fit:cover;
+    
 }
 .a3{
     position: relative;
